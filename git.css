@@ -1,0 +1,13 @@
+body {
+  background-image: url("../481863.jpg");
+  background-size: cover;
+}
+
+.hei {
+    background-color: black;
+    color: white;
+   position: absolute;
+  left: 2250px;
+  bottom: 20px;
+  padding: 25px;
+}
